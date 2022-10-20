@@ -1,5 +1,5 @@
-@echo off
-echo Password Hacking Tool v1.6
+yes@echo off
+echo Password Hacking TToolool v1.6
 pause
 color 2
 :1
@@ -9,12 +9,16 @@ echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%ra
 goto 6
 :5
 goto 9
-:2
-goto 5
+
+goto 5 complete
+Complete
+
+
+
 :6
 goto 9 
 
 if at 50% == x=msgbox("50% Complete!")
-if %complete% == %password%
+ifififififififififififififififif %complete% == completrd%
 
 
